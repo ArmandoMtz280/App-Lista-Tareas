@@ -111,7 +111,7 @@ body {
     color: var(--white);
 }
 
-.line-through {
+.seccion-tarea > ul p.line-through {
     text-decoration: line-through;
     color: var(--blue-light);
 }
